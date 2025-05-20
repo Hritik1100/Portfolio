@@ -1,7 +1,5 @@
 # Hritik Nandanwar - Portfolio Website
 
-![Portfolio Preview](assets/images/preview.jpg) *[Add screenshot if available]*
-
 A responsive personal portfolio website showcasing my work as a **Software Engineer & Data Scientist**, built with HTML, CSS, and vanilla JavaScript.
 
 ## 🔥 Features
